@@ -1,0 +1,12 @@
+{
+  "name": "হিস্যা ও জমি ক্যালকুলেটর",
+  "short_name": "জমি ক্যালকুলেটর",
+  "start_url": "./hisya_o_jomi_calculator_pwa.html",
+  "display": "standalone",
+  "background_color": "#f6f8ff",
+  "theme_color": "#4f46e5",
+  "description": "হিস্যা, খতিয়ানে প্রাপ্ত জমি ও তফসিলে হিস্যা নির্ণয়ের ক্যালকুলেটর",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
